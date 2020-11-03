@@ -4,8 +4,8 @@ require('events').EventEmitter.defaultMaxListeners = 10
 export default {
   // Global page headers (https://go.nuxtjs.dev/config-head)
   head: {
-    titleTemplate: '%s - wismannur-vuetify',
-    title: 'wismannur-vuetify',
+    titleTemplate: '%s - Wismannur',
+    title: 'Wismannur',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
