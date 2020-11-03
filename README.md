@@ -1,20 +1,6 @@
-# wismannur-vuetify
+# wismannur
 
-## Build Setup
+This Project created with Nuxt.Js [Nuxt.js docs](https://nuxtjs.org).
 
-```bash
-# install dependencies
-$ npm install
+This is my personal project, created for CV promotion and blog updates from my work in IT development.
 
-# serve with hot reload at localhost:3000
-$ npm run dev
-
-# build for production and launch server
-$ npm run build
-$ npm run start
-
-# generate static project
-$ npm run generate
-```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
