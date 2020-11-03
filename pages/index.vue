@@ -8,7 +8,7 @@
         >
           <div class="container" style="padding: 0">
             <div class="navbar-translate">
-              <a class="navbar-brand" href="#" rel="tooltip">Creative CV</a>
+              <a class="navbar-brand" href="#" rel="tooltip">WISMANNUR</a>
               <button
                 class="navbar-toggler navbar-toggler"
                 type="button"
@@ -67,11 +67,11 @@
               <div class="container">
                 <div class="content-center">
                   <div class="cc-profile-image">
-                    <a href="#"><img src="images/anthony.jpg" alt="Image" /></a>
+                    <a href="#"><img src="images/wismannur-512x512.jpg" alt="Image" /></a>
                   </div>
-                  <div class="h2 title">Anthony Barnett</div>
+                  <div class="h2 title">Wisman Nur Abdul Kholik</div>
                   <p class="category text-white">
-                    Web Developer, Graphic Designer, Photographer
+                    Full Stack Developer
                   </p>
                   <a
                     class="btn btn-primary smooth-scroll mr-2"
@@ -93,21 +93,24 @@
                   <div class="button-container">
                     <a
                       class="btn btn-default btn-round btn-lg btn-icon"
-                      href="#"
+                      href="https://twitter.com/wismannur"
                       rel="tooltip"
                       title="Follow me on Twitter"
+                      target="_blank"
                       ><i class="fa fa-twitter"></i></a
                     ><a
                       class="btn btn-default btn-round btn-lg btn-icon"
-                      href="#"
+                      href="https://linkedin.com/in/wismannur"
                       rel="tooltip"
                       title="Follow me on LinkedIn"
+                      target="_blank"
                       ><i class="fa fa-linkedin"></i></a
                     ><a
                       class="btn btn-default btn-round btn-lg btn-icon"
-                      href="#"
+                      href="https://www.instagram.com/wismannur"
                       rel="tooltip"
                       title="Follow me on Instagram"
+                      target="_blank"
                       ><i class="fa fa-instagram"></i
                     ></a>
                   </div>
@@ -124,19 +127,11 @@
                   <div class="card-body">
                     <div class="h4 mt-0 title">About</div>
                     <p>
-                      Hello! I am Anthony Barnett. Web Developer, Graphic
-                      Designer and Photographer.
+                      Hello! I am Wisman Nur a Full Stack Developer.
                     </p>
+                    <p>A visionary human who has a dream to become a creator.</p>
                     <p>
-                      Creative CV is a HTML resume template for professionals.
-                      Built with Bootstrap 4, Now UI Kit and FontAwesome, this
-                      modern and responsive design template is perfect to
-                      showcase your portfolio, skills and experience.
-                      <a
-                        href="https://templateflip.com/templates/creative-cv/"
-                        target="_blank"
-                        >Learn More</a
-                      >
+                      Has experience in the field of fullstack developer for more than 2 years. I can create a web application from scratch to production. both for the frontend and backend. And also I can deploy an application that I have made to a cloud server such as Apache or Nginx. and not only that, I have experience in developing web applications and identifying, analyzing, and solving problems / errors / bugs. Perform program testing / debugging and special program files. This program is free of bugs. Perform system development / programming.
                     </p>
                   </div>
                 </div>
@@ -147,33 +142,37 @@
                       <div class="col-sm-4">
                         <strong class="text-uppercase">Age:</strong>
                       </div>
-                      <div class="col-sm-8">24</div>
+                      <div class="col-sm-8">{{ age }}</div>
                     </div>
                     <div class="row mt-3">
                       <div class="col-sm-4">
                         <strong class="text-uppercase">Email:</strong>
                       </div>
-                      <div class="col-sm-8">anthony@company.com</div>
-                    </div>
-                    <div class="row mt-3">
-                      <div class="col-sm-4">
-                        <strong class="text-uppercase">Phone:</strong>
+                      <div class="col-sm-8">
+                        <a href="mailto:wismannura@gmail.com" style="color: #000">wismannura@gmail.com</a>
                       </div>
-                      <div class="col-sm-8">+1718-111-0011</div>
                     </div>
                     <div class="row mt-3">
                       <div class="col-sm-4">
                         <strong class="text-uppercase">Address:</strong>
                       </div>
                       <div class="col-sm-8">
-                        140, City Center, New York, U.S.A
+                        Bandung, West Java, Indonesia (ID)
                       </div>
                     </div>
                     <div class="row mt-3">
                       <div class="col-sm-4">
                         <strong class="text-uppercase">Language:</strong>
                       </div>
-                      <div class="col-sm-8">English, German, French</div>
+                      <div class="col-sm-8">Bahasa Indonesia, English, Sundanese</div>
+                    </div>
+                    <div class="row mt-3">
+                      <div class="col-sm-4">
+                        <strong class="text-uppercase">My Github:</strong>
+                      </div>
+                      <div class="col-sm-8">
+                        <a href="https://github.com/wismannur" target="_blank" style="color: #000">https://github.com/wismannur</a>
+                      </div>
                     </div>
                   </div>
                 </div>
@@ -233,7 +232,7 @@
                 <div class="row">
                   <div class="col-md-6">
                     <div class="progress-container progress-primary">
-                      <span class="progress-badge">JavaScript</span>
+                      <span class="progress-badge">JavaScript / Node JS</span>
                       <div class="progress">
                         <div
                           class="progress-bar progress-bar-primary"
@@ -273,6 +272,25 @@
                 <div class="row">
                   <div class="col-md-6">
                     <div class="progress-container progress-primary">
+                      <span class="progress-badge">TypeScript</span>
+                      <div class="progress">
+                        <div
+                          class="progress-bar progress-bar-primary"
+                          data-aos="progress-full"
+                          data-aos-offset="10"
+                          data-aos-duration="2000"
+                          role="progressbar"
+                          aria-valuenow="60"
+                          aria-valuemin="0"
+                          aria-valuemax="100"
+                          style="width: 60%"
+                        ></div>
+                        <span class="progress-value">60%</span>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-6">
+                    <div class="progress-container progress-primary">
                       <span class="progress-badge">Bootstrap</span>
                       <div class="progress">
                         <div
@@ -284,15 +302,36 @@
                           aria-valuenow="60"
                           aria-valuemin="0"
                           aria-valuemax="100"
-                          style="width: 75%"
+                          style="width: 70%"
                         ></div>
-                        <span class="progress-value">75%</span>
+                        <span class="progress-value">70%</span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-md-6">
+                    <div class="progress-container progress-primary">
+                      <span class="progress-badge">Vue JS</span>
+                      <div class="progress">
+                        <div
+                          class="progress-bar progress-bar-primary"
+                          data-aos="progress-full"
+                          data-aos-offset="10"
+                          data-aos-duration="2000"
+                          role="progressbar"
+                          aria-valuenow="60"
+                          aria-valuemin="0"
+                          aria-valuemax="100"
+                          style="width: 70%"
+                        ></div>
+                        <span class="progress-value">70%</span>
                       </div>
                     </div>
                   </div>
                   <div class="col-md-6">
                     <div class="progress-container progress-primary">
-                      <span class="progress-badge">Photoshop</span>
+                      <span class="progress-badge">Angular JS</span>
                       <div class="progress">
                         <div
                           class="progress-bar progress-bar-primary"
@@ -590,8 +629,8 @@
                   data-aos-duration="500"
                 >
                   <div class="card-body cc-experience-header">
-                    <p>March 2016 - Present</p>
-                    <div class="h5">CreativeM</div>
+                    <p>Jun 2019 - Present</p>
+                    <div class="h5">BIT - Barito Technologies Group</div>
                   </div>
                 </div>
                 <div
@@ -601,16 +640,14 @@
                   data-aos-duration="500"
                 >
                   <div class="card-body">
-                    <div class="h5">Front End Developer</div>
+                    <div class="h5">Full Stack Developer</div>
                     <p>
-                      Euismod massa scelerisque suspendisse fermentum habitant
-                      vitae ullamcorper magna quam iaculis, tristique sapien
-                      taciti mollis interdum sagittis libero nunc inceptos
-                      tellus, hendrerit vel eleifend primis lectus quisque
-                      cubilia sed mauris. Lacinia porta vestibulum diam integer
-                      quisque eros pulvinar curae, curabitur feugiat arcu
-                      vivamus parturient aliquet laoreet at, eu etiam pretium
-                      molestie ultricies sollicitudin dui.
+                      As a Frontend Developer here I am building a mobile application with my good team, the PRU-Force activity management application. <br>
+                      - Front End Development : ReactJS, HTML, CSS, Vanilla JS, LESS, Responsive Design Application. <br>
+                      <br>
+                      As a Full Stack Developer here I am building a back office application with my good team, the PRUHub Leads Management application. <br>
+                      - Front End Development : AngularJS, Ionic, Typescript, HTML, CSS, SCSS, Responsive web Design Application. <br>
+                      - Back End Development : Java, SpringBoot, PostgreSQL.
                     </p>
                   </div>
                 </div>
@@ -625,8 +662,8 @@
                   data-aos-duration="500"
                 >
                   <div class="card-body cc-experience-header">
-                    <p>April 2014 - March 2016</p>
-                    <div class="h5">WebNote</div>
+                    <p>Nov 2018 - Jun 2019</p>
+                    <div class="h5">Arisoft Riset Informatika</div>
                   </div>
                 </div>
                 <div
@@ -636,16 +673,16 @@
                   data-aos-duration="500"
                 >
                   <div class="card-body">
-                    <div class="h5">Web Developer</div>
+                    <div class="h5">Full Stack Developer</div>
+                    <p class="category">Bandung Area, West Java, Indonesia (ID)</p>
                     <p>
-                      Euismod massa scelerisque suspendisse fermentum habitant
-                      vitae ullamcorper magna quam iaculis, tristique sapien
-                      taciti mollis interdum sagittis libero nunc inceptos
-                      tellus, hendrerit vel eleifend primis lectus quisque
-                      cubilia sed mauris. Lacinia porta vestibulum diam integer
-                      quisque eros pulvinar curae, curabitur feugiat arcu
-                      vivamus parturient aliquet laoreet at, eu etiam pretium
-                      molestie ultricies sollicitudin dui.
+                      - Identifying, analyzing and solving the problems/errors/bugs <br>
+                      - Performing program test/debugging and make sure program free of bugs  <br>
+                      - Performing system development/programming <br>
+                      - Front End development : HTML, CSS, SCSS, Twig, Jquery, Jquery UI, JavaScript, Bootstrap. <br>
+                      - Back End development: Python Django, PHP. <br>
+                      - Database development : PostgreSql, MySQL, MariaDB. <br>
+                      - Webserver development : Nginx, Apache, Linux Ubuntu.
                     </p>
                   </div>
                 </div>
@@ -660,8 +697,8 @@
                   data-aos-duration="500"
                 >
                   <div class="card-body cc-experience-header">
-                    <p>April 2013 - February 2014</p>
-                    <div class="h5">WEBM</div>
+                    <p>Feb 2018 - Sep 2018</p>
+                    <div class="h5">Navcore Nextology</div>
                   </div>
                 </div>
                 <div
@@ -671,16 +708,14 @@
                   data-aos-duration="500"
                 >
                   <div class="card-body">
-                    <div class="h5">Intern</div>
+                    <div class="h5">Full Stack Developer</div>
+                    <p class="category">Greater Jakarta Area, Indonesia (ID)</p>
                     <p>
-                      Euismod massa scelerisque suspendisse fermentum habitant
-                      vitae ullamcorper magna quam iaculis, tristique sapien
-                      taciti mollis interdum sagittis libero nunc inceptos
-                      tellus, hendrerit vel eleifend primis lectus quisque
-                      cubilia sed mauris. Lacinia porta vestibulum diam integer
-                      quisque eros pulvinar curae, curabitur feugiat arcu
-                      vivamus parturient aliquet laoreet at, eu etiam pretium
-                      molestie ultricies sollicitudin dui.
+                      I developed a DCN product (Distributed Channel Network) with my team, products for flight ticket reservations and Hajj and Umrah departures, using Nexigo internal framework.
+                      <br>
+                      - Front End development : HTML, CSS, JavaScript, JQUERY, AJAX, Kendo Grid. <br>
+                      - Back End development : Golang. <br>
+                      - Database Development : Nexigo API, PostgreSQL.
                     </p>
                   </div>
                 </div>
@@ -691,7 +726,7 @@
         <div class="section">
           <div class="container cc-education">
             <div class="h4 text-center mb-4 title">Education</div>
-            <div class="card">
+            <!-- <div class="card">
               <div class="row">
                 <div
                   class="col-md-3 bg-primary"
@@ -726,7 +761,7 @@
                   </div>
                 </div>
               </div>
-            </div>
+            </div> -->
             <div class="card">
               <div class="row">
                 <div
@@ -736,8 +771,8 @@
                   data-aos-duration="500"
                 >
                   <div class="card-body cc-education-header">
-                    <p>2009 - 2013</p>
-                    <div class="h5">Bachelor's Degree</div>
+                    <p>Nov 2017 - Jan 2018</p>
+                    <div class="h5">Bootcamp</div>
                   </div>
                 </div>
                 <div
@@ -747,8 +782,8 @@
                   data-aos-duration="500"
                 >
                   <div class="card-body">
-                    <div class="h5">Bachelor of Computer Science</div>
-                    <p class="category">University of Computer Science</p>
+                    <div class="h5">Bootcamp Full Stack Academy</div>
+                    <p class="category">Makers Institute Indonesia</p>
                     <p>
                       Euismod massa scelerisque suspendisse fermentum habitant
                       vitae ullamcorper magna quam iaculis, tristique sapien
@@ -772,8 +807,8 @@
                   data-aos-duration="500"
                 >
                   <div class="card-body cc-education-header">
-                    <p>2007 - 2009</p>
-                    <div class="h5">High School</div>
+                    <p>2014 - 2017</p>
+                    <div class="h5">Vocational High School</div>
                   </div>
                 </div>
                 <div
@@ -783,8 +818,8 @@
                   data-aos-duration="500"
                 >
                   <div class="card-body">
-                    <div class="h5">Science and Mathematics</div>
-                    <p class="category">School of Secondary board</p>
+                    <div class="h5">Computer and Network Engineering</div>
+                    <p class="category">School of SMK Penida 2 Katapang</p>
                     <p>
                       Euismod massa scelerisque suspendisse fermentum habitant
                       vitae ullamcorper magna quam iaculis, tristique sapien
@@ -801,7 +836,7 @@
             </div>
           </div>
         </div>
-        <div class="section" id="reference">
+        <!-- <div class="section" id="reference">
           <div class="container cc-reference">
             <div class="h4 mb-4 text-center title">References</div>
             <div class="card" data-aos="zoom-in">
@@ -887,7 +922,7 @@
               </div>
             </div>
           </div>
-        </div>
+        </div> -->
         <div class="section" id="contact">
           <div
             class="cc-contact-information"
@@ -983,12 +1018,12 @@
                           <div class="card-body">
                             <p class="mb-0"><strong>Address </strong></p>
                             <p class="pb-2">
-                              140, City Center, New York, U.S.A
+                              Bandung, West Java, Indonesia (ID)
                             </p>
-                            <p class="mb-0"><strong>Phone</strong></p>
-                            <p class="pb-2">+1718-111-0011</p>
                             <p class="mb-0"><strong>Email</strong></p>
-                            <p>anthony@company.com</p>
+                            <a href="mailto:wismannura@gmail.com" style="color: #000"><p class="pb-2" >wismannura@gmail.com</p></a>
+                            <p class="mb-0"><strong>Send Message in LinkedIn</strong></p>
+                            <a href="https://linkedin.com/in/wismannur" target="_blank" style="color: #000"><p class="pb-2">https://linkedin.com/in/wismannur</p></a>
                           </div>
                         </div>
                       </div>
@@ -1003,17 +1038,17 @@
     </div>
     <footer class="footer">
       <div class="container text-center">
-        <a class="cc-twitter btn btn-link" href="#">
+        <a class="cc-twitter btn btn-link" href="https://twitter.com/wismannur" target="_blank">
           <i class="fa fa-twitter fa-2x" aria-hidden="true"></i>
         </a>
-        <a class="cc-linkedin btn btn-link" href="#">
+        <a class="cc-linkedin btn btn-link" href="https://linkedin.com/in/wismannur" target="_blank">
           <i class="fa fa-linkedin fa-2x" aria-hidden="true"></i>
         </a>
-        <a class="cc-instagram btn btn-link" href="#">
+        <a class="cc-instagram btn btn-link" href="https://www.instagram.com/wismannur" target="_blank">
           <i class="fa fa-instagram fa-2x" aria-hidden="true"></i>
         </a>
       </div>
-      <div class="h4 title text-center">Anthony Barnett</div>
+      <div class="h4 title text-center">Wisman Nur Abdul Kholik</div>
       <div class="text-center text-muted">
         <p>
           &copy; Creative CV. All rights reserved.<br />Design -
@@ -1022,18 +1057,30 @@
       </div>
     </footer>
 
-    <script src="/js/core/jquery.3.2.1.min.js"></script>
-    <script src="/js/core/popper.min.js"></script>
-    <script src="/js/core/bootstrap.min.js"></script>
-    <script src="/js/now-ui-kit.js?v=1.1.0"></script>
-    <script src="/js/aos.js"></script>
-    <script src="/js/main.js"></script>
+    <script src="/js/core/jquery.3.2.1.min.js" />
+    <script src="/js/core/popper.min.js" />
+    <script src="/js/core/bootstrap.min.js" />
+    <script src="/js/now-ui-kit.js?v=1.1.0" />
+    <script src="/js/aos.js" />
+    <script src="/js/main.js" />
   </div>
 </template>
 
 <script>
 export default {
   layout: 'resume',
+  data () {
+    return {
+      age: this.calculateAge(new Date(1999, 3, 28))
+    }
+  },
+  methods: {
+    calculateAge (dob) {
+      const diffMs = Date.now() - dob.getTime()
+      const ageDt = new Date(diffMs)
+      return Math.abs(ageDt.getUTCFullYear() - 1970)
+    }
+  },
   head () {
     return {
       link: [
