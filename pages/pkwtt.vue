@@ -17,7 +17,7 @@ export default {
   },
   methods: {
     init () {
-
+      console.log('add console pkwtt')
     }
   }
 }
