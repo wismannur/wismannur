@@ -1,6 +1,6 @@
 # 👋 Hello!
 
-I'm **Wisman Nur**, a Software Engineer - Frontend from Indonesia. <br>
+I'm **Wisman Nur**, a Software Engineer - Frontend from Indonesia 🇮🇩. <br>
 you can see my portfolio at **[wismannur.pro](https://wismannur.pro/?ref=readme)**
 
 <br />
