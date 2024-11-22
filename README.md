@@ -1,7 +1,13 @@
 # 👋 Hello!
 
-I'm **Wisman Nur**, a Software Engineer - Frontend from Indonesia 🇮🇩. <br>
-you can see my portfolio at **[wismannur.pro](https://wismannur.pro/?ref=readme)**
+I'm **Wisman Nur**, a Software Engineer - Frontend from Indonesia 🇮🇩 <br>
+<a href="https://wismannur.pro/?ref=readme">
+<img alt="My Personal Website" src="https://img.shields.io/static/v1?color=0EA5E9&label=Website&message=wismannur.pro&style=flat&logo=amp&logoColor=ffffff&labelColor=334155">
+</a>
+
+<!-- <a href="https://github.com/antonkomarev/github-profile-views-counter">
+  <img src="https://komarev.com/ghpvc/?username=wismannur&style=flat&abbreviated=true">
+</a> -->
 
 <br />
 
